@@ -1,0 +1,719 @@
+ATL
+
+Points 
+Career high: 48 
+Career low: 8
+Career average: 27.76
+
+Assists 
+Career high: 19 
+Career low: 2
+Career average: 7.27
+
+Rebounds 
+Career high: 18 
+Career low: 2
+Career average: 8.28
+
+Game score 
+Career high: 44.7 
+Career low: 5.8
+Career average: 23.94
+
+Total games: 67
+
+BOS
+
+Points 
+Career high: 46 
+Career low: 10
+Career average: 29.42
+
+Assists 
+Career high: 13 
+Career low: 0
+Career average: 6.71
+
+Rebounds 
+Career high: 19 
+Career low: 3
+Career average: 7.82
+
+Game score 
+Career high: 38.8 
+Career low: 0.8
+Career average: 23.31
+
+Total games: 92
+
+NJN
+
+Points 
+Career high: 49 
+Career low: 9
+Career average: 27.27
+
+Assists 
+Career high: 14 
+Career low: 2
+Career average: 7.33
+
+Rebounds 
+Career high: 13 
+Career low: 1
+Career average: 7.02
+
+Game score 
+Career high: 39.8 
+Career low: 1.2
+Career average: 22.39
+
+Total games: 64
+
+CHA
+
+Points 
+Career high: 61 
+Career low: 14
+Career average: 28.15
+
+Assists 
+Career high: 14 
+Career low: 1
+Career average: 7.36
+
+Rebounds 
+Career high: 19 
+Career low: 2
+Career average: 7.92
+
+Game score 
+Career high: 48.8 
+Career low: 11.9
+Career average: 24.40
+
+Total games: 53
+
+CHI
+
+Points 
+Career high: 41 
+Career low: 15
+Career average: 28.03
+
+Assists 
+Career high: 14 
+Career low: 1
+Career average: 6.92
+
+Rebounds 
+Career high: 15 
+Career low: 2
+Career average: 7.80
+
+Game score 
+Career high: 39.9 
+Career low: 5.1
+Career average: 22.42
+
+Total games: 76
+
+CLE
+
+Points 
+Career high: 43 
+Career low: 18
+Career average: 27.93
+
+Assists 
+Career high: 12 
+Career low: 4
+Career average: 7.14
+
+Rebounds 
+Career high: 14 
+Career low: 3
+Career average: 7.50
+
+Game score 
+Career high: 42.0 
+Career low: 7.3
+Career average: 24.00
+
+Total games: 14
+
+DAL
+
+Points 
+Career high: 46 
+Career low: 8
+Career average: 25.53
+
+Assists 
+Career high: 12 
+Career low: 3
+Career average: 6.61
+
+Rebounds 
+Career high: 13 
+Career low: 3
+Career average: 7.36
+
+Game score 
+Career high: 39.2 
+Career low: 0.6
+Career average: 20.13
+
+Total games: 36
+
+DEN
+
+Points 
+Career high: 43 
+Career low: 7
+Career average: 26.48
+
+Assists 
+Career high: 15 
+Career low: 2
+Career average: 8.03
+
+Rebounds 
+Career high: 13 
+Career low: 1
+Career average: 7.35
+
+Game score 
+Career high: 40.1 
+Career low: 7.6
+Career average: 20.98
+
+Total games: 31
+
+DET
+
+Points 
+Career high: 48 
+Career low: 6
+Career average: 24.68
+
+Assists 
+Career high: 14 
+Career low: 1
+Career average: 7.05
+
+Rebounds 
+Career high: 14 
+Career low: 1
+Career average: 7.54
+
+Game score 
+Career high: 39.2 
+Career low: 1.1
+Career average: 20.01
+
+Total games: 76
+
+GSW
+
+Points 
+Career high: 51 
+Career low: 14
+Career average: 29.98
+
+Assists 
+Career high: 14 
+Career low: 2
+Career average: 7.96
+
+Rebounds 
+Career high: 18 
+Career low: 3
+Career average: 9.70
+
+Game score 
+Career high: 42.5 
+Career low: 7.6
+Career average: 24.81
+
+Total games: 50
+
+HOU
+
+Points 
+Career high: 38 
+Career low: 3
+Career average: 25.50
+
+Assists 
+Career high: 11 
+Career low: 0
+Career average: 5.90
+
+Rebounds 
+Career high: 13 
+Career low: 1
+Career average: 6.80
+
+Game score 
+Career high: 31.4 
+Career low: 3.1
+Career average: 18.66
+
+Total games: 30
+
+IND
+
+Points 
+Career high: 47 
+Career low: 7
+Career average: 28.21
+
+Assists 
+Career high: 13 
+Career low: 1
+Career average: 6.58
+
+Rebounds 
+Career high: 18 
+Career low: 2
+Career average: 8.03
+
+Game score 
+Career high: 40.9 
+Career low: 9.0
+Career average: 23.11
+
+Total games: 86
+
+LAC
+
+Points 
+Career high: 39 
+Career low: 4
+Career average: 24.53
+
+Assists 
+Career high: 12 
+Career low: 3
+Career average: 7.00
+
+Rebounds 
+Career high: 14 
+Career low: 3
+Career average: 7.37
+
+Game score 
+Career high: 30.2 
+Career low: 0.9
+Career average: 18.88
+
+Total games: 30
+
+LAL
+
+Points 
+Career high: 41 
+Career low: 16
+Career average: 27.63
+
+Assists 
+Career high: 12 
+Career low: 3
+Career average: 7.27
+
+Rebounds 
+Career high: 13 
+Career low: 2
+Career average: 7.77
+
+Game score 
+Career high: 36.9 
+Career low: 5.3
+Career average: 21.82
+
+Total games: 30
+
+MEM
+
+Points 
+Career high: 51 
+Career low: 12
+Career average: 25.16
+
+Assists 
+Career high: 15 
+Career low: 2
+Career average: 8.03
+
+Rebounds 
+Career high: 16 
+Career low: 1
+Career average: 7.19
+
+Game score 
+Career high: 45.0 
+Career low: 8.5
+Career average: 21.77
+
+Total games: 31
+
+MIA
+
+Points 
+Career high: 51 
+Career low: 10
+Career average: 28.26
+
+Assists 
+Career high: 12 
+Career low: 3
+Career average: 6.97
+
+Rebounds 
+Career high: 17 
+Career low: 2
+Career average: 6.63
+
+Game score 
+Career high: 43.8 
+Career low: 8.5
+Career average: 21.86
+
+Total games: 38
+
+MIL
+
+Points 
+Career high: 55 
+Career low: 8
+Career average: 28.37
+
+Assists 
+Career high: 12 
+Career low: 2
+Career average: 6.97
+
+Rebounds 
+Career high: 13 
+Career low: 1
+Career average: 7.40
+
+Game score 
+Career high: 42.9 
+Career low: 3.4
+Career average: 22.81
+
+Total games: 60
+
+MIN
+
+Points 
+Career high: 45 
+Career low: 10
+Career average: 26.52
+
+Assists 
+Career high: 15 
+Career low: 2
+Career average: 7.81
+
+Rebounds 
+Career high: 14 
+Career low: 0
+Career average: 8.06
+
+Game score 
+Career high: 39.7 
+Career low: 5.4
+Career average: 23.56
+
+Total games: 31
+
+NOH
+
+Points 
+Career high: 44 
+Career low: 15
+Career average: 26.32
+
+Assists 
+Career high: 14 
+Career low: 2
+Career average: 8.03
+
+Rebounds 
+Career high: 14 
+Career low: 3
+Career average: 6.47
+
+Game score 
+Career high: 34.3 
+Career low: 10.2
+Career average: 22.24
+
+Total games: 34
+
+NYK
+
+Points 
+Career high: 52 
+Career low: 10
+Career average: 26.56
+
+Assists 
+Career high: 15 
+Career low: 1
+Career average: 7.11
+
+Rebounds 
+Career high: 18 
+Career low: 1
+Career average: 7.07
+
+Game score 
+Career high: 44.0 
+Career low: 3.2
+Career average: 21.51
+
+Total games: 57
+
+OKC
+
+Points 
+Career high: 44 
+Career low: 14
+Career average: 28.75
+
+Assists 
+Career high: 13 
+Career low: 1
+Career average: 7.16
+
+Rebounds 
+Career high: 14 
+Career low: 3
+Career average: 7.19
+
+Game score 
+Career high: 38.5 
+Career low: 10.6
+Career average: 23.47
+
+Total games: 32
+
+ORL
+
+Points 
+Career high: 51 
+Career low: 14
+Career average: 26.84
+
+Assists 
+Career high: 14 
+Career low: 1
+Career average: 7.26
+
+Rebounds 
+Career high: 14 
+Career low: 2
+Career average: 7.28
+
+Game score 
+Career high: 46.7 
+Career low: 5.5
+Career average: 21.78
+
+Total games: 61
+
+PHI
+
+Points 
+Career high: 44 
+Career low: 16
+Career average: 27.11
+
+Assists 
+Career high: 14 
+Career low: 2
+Career average: 7.72
+
+Rebounds 
+Career high: 15 
+Career low: 2
+Career average: 7.63
+
+Game score 
+Career high: 34.8 
+Career low: 9.2
+Career average: 23.01
+
+Total games: 54
+
+PHO
+
+Points 
+Career high: 46 
+Career low: 12
+Career average: 27.06
+
+Assists 
+Career high: 16 
+Career low: 1
+Career average: 7.19
+
+Rebounds 
+Career high: 12 
+Career low: 2
+Career average: 7.28
+
+Game score 
+Career high: 40.9 
+Career low: 5.1
+Career average: 22.40
+
+Total games: 32
+
+POR
+
+Points 
+Career high: 44 
+Career low: 8
+Career average: 28.40
+
+Assists 
+Career high: 14 
+Career low: 2
+Career average: 7.27
+
+Rebounds 
+Career high: 14 
+Career low: 4
+Career average: 9.20
+
+Game score 
+Career high: 44.3 
+Career low: 5.0
+Career average: 24.89
+
+Total games: 30
+
+SAC
+
+Points 
+Career high: 51 
+Career low: 16
+Career average: 26.52
+
+Assists 
+Career high: 16 
+Career low: 2
+Career average: 8.44
+
+Rebounds 
+Career high: 16 
+Career low: 2
+Career average: 7.74
+
+Game score 
+Career high: 44.2 
+Career low: 12.9
+Career average: 23.87
+
+Total games: 27
+
+SAS
+
+Points 
+Career high: 44 
+Career low: 14
+Career average: 26.94
+
+Assists 
+Career high: 14 
+Career low: 2
+Career average: 6.64
+
+Rebounds 
+Career high: 18 
+Career low: 2
+Career average: 7.85
+
+Game score 
+Career high: 34.9 
+Career low: 5.0
+Career average: 20.84
+
+Total games: 47
+
+TOR
+
+Points 
+Career high: 56 
+Career low: 14
+Career average: 28.27
+
+Assists 
+Career high: 17 
+Career low: 1
+Career average: 7.68
+
+Rebounds 
+Career high: 14 
+Career low: 1
+Career average: 7.32
+
+Game score 
+Career high: 42.9 
+Career low: 8.4
+Career average: 24.27
+
+Total games: 66
+
+UTA
+
+Points 
+Career high: 51 
+Career low: 13
+Career average: 29.17
+
+Assists 
+Career high: 14 
+Career low: 2
+Career average: 6.93
+
+Rebounds 
+Career high: 17 
+Career low: 0
+Career average: 8.40
+
+Game score 
+Career high: 37.8 
+Career low: 4.5
+Career average: 24.48
+
+Total games: 30
+
+WAS
+
+Points 
+Career high: 57 
+Career low: 13
+Career average: 27.80
+
+Assists 
+Career high: 17 
+Career low: 2
+Career average: 7.05
+
+Rebounds 
+Career high: 15 
+Career low: 0
+Career average: 7.86
+
+Game score 
+Career high: 53.2 
+Career low: 3.2
+Career average: 22.19
+
+Total games: 65
